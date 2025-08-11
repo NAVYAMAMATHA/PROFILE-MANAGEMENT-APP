@@ -37,7 +37,7 @@ to run json-server
 
 
 ### Folder Structure
-
+```
 profile-management-app/
 │-- src/
 │   │-- app/              
@@ -52,3 +52,5 @@ profile-management-app/
 |--db.json
 │-- README.md
 │-- .gitignore
+
+```
