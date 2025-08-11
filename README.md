@@ -11,12 +11,12 @@ A simple, clean, and efficient way to create, update, and view user profiles —
 
 
 ### Tech Stack
-
+```
 -React with TypeScript
 -Redux for State Management
 -Material UI for Styling
 -json-server for Mock Api calls
-
+```
 ### How to Run 
 #### 1.Clone the Repository
 git clone https://github.com/NAVYAMAMATHA/profile-management-app.git
