@@ -51,7 +51,7 @@ const ProfilePage:React.FC=()=>{
       </Box>
       </Box>
     );}
-  const names=data.name.split(" ");
+  const names=data.name?.split(" ");
   const firstName=names[0];
   const lastName=names.length > 1 ? names.slice(1).join(" ") : "";
   return (
